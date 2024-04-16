@@ -6,8 +6,8 @@ Esta es una aplicación móvil desarrollada en Android Studio utilizando el leng
 ## Funcionalidades
 
 - **Guardar Contactos**: Permite al usuario introducir y guardar información de contacto, que incluye nombre, número de teléfono y correo electrónico.
-- **Buscar Contactos**: Los usuarios pueden buscar contactos guardados utilizando el nombre, teléfono o correo electrónico.
-- **Visualización de Contactos**: La aplicación muestra todos los contactos guardados en una lista, permitiendo al usuario seleccionar uno para ver más detalles.
+- **Buscar Contactos**: Los usuarios pueden buscar contactos guardados utilizando el nombre en la barra de búsqueda.
+- **Visualización de Contactos**: La aplicación muestra a los contactos guardados
 
 ## Requisitos del Sistema
 
